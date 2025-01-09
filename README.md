@@ -95,3 +95,39 @@ As an admin, I want to generate reports on website activity, so that I can under
 <hr>
 <p align="right"><a href=“#lyric-lure">Back To Top</a></p>
 
+## Design
+### Colour Scheme
+
+
+### Main Palette
+<hr>
+<p align="right"><a href=“#lyric-lure">Back To Top</a></p>
+
+### Typography
+<hr>
+<p align="right"><a href=“#lyric-lure">Back To Top</a></p>
+
+### Wireframes
+
+<hr>
+<p align="right"><a href=“#lyric-lure">Back To Top</a></p>
+
+**Desktop Wireframe** <br>
+![Desktop wireframe](docs/)
+
+**Tablet Wireframe** <br>
+![Tablet wireframe](docs/)
+
+**Mobile Wireframe** <br>
+![Mobile wireframe](docs/)
+
+<hr>
+<p align="right"><a href="#lyric-lure">Back To Top</a></p>
+
+## Imagery
+To best reprenet the website, and the ability music has to incorporate all walks of life, colour schemes were harder to choose, as music can represent every colour in the world. This then reflected in the imagery used, as trying to keep things neutral for new users/ visitors, but still entice return visits can prove difficult, which is why extensive searches through search engines like [google](https://google.com/), and getting others opinions through websites like [Reddit](https://Reddit.com/) (an open interactive forum) were obtained to style the page.
+
+The main image seen when the website is opened, represed the way I wanted to potray the site, [seen here](docs/)
+
+<hr>
+<p align="right"><a href="#lyric-lure">Back To Top</a></p>
