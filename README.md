@@ -131,3 +131,13 @@ The main image seen when the website is opened, represed the way I wanted to pot
 
 <hr>
 <p align="right"><a href="#lyric-lure">Back To Top</a></p>
+
+## Features
+### General Features
+Keeping the fulfilment criteria in mind, the page consists of ...(complete) including links to different websites, further resources and even ticket booking websites.
+
+### Future Implementation
+For the future, I would ...(complete) 
+
+<hr>
+<p align="right"><a href="#lyric-lure">Back To Top</a></p>
