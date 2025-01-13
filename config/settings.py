@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = []
-# Need to use this if something goes wrong.
+# Need to use this if something goes wrong. --REMOVE
 #CSRF_TRUSTED_ORIGINS = ['']
 
 
