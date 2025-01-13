@@ -31,8 +31,6 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = []
-# Need to use this if something goes wrong. --REMOVE
-#CSRF_TRUSTED_ORIGINS = ['']
 
 
 # Application definition
@@ -91,6 +89,13 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
 }
+
+# Need to use this if something goes wrong. --REMOVE
+CSRF_TRUSTED_ORIGINS = [
+    "https://*.herokuapp.com",
+    "https://localhost:8000", # not sure but keeping just in case --REMOVE
+    "https://*.codeinstitute-ide.net",
+]
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
